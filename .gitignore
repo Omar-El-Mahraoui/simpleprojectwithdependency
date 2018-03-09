@@ -17,3 +17,6 @@ obj/
 
 ### Class files java ###
 *.class
+
+### jars ###
+*.jar
